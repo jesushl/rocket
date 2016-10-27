@@ -1,0 +1,7 @@
+
+La idea es tener una pantalla de formulario, con 5 a 10 preguntas(elige las preguntas que desees para que este formulario parezca una encuesta)
+Cada vez que un usuario entra a esta pagina hay que generar un registro de Prospecto de manera automática.
+Cada vez que un usuario complete un campo hay que guardar la acción que realizo y actualizar el registro prospecto para ver cuando progreso a realizado.
+Una vez que el usuario haga un submit en el formulario hay que guardar que termino el formulario y elegir una de 3 respuestas predefinidas(puede ser de manera aleatoria) y guardar cual le mostramos.
+
+En otra pantalla mostrar un listado de prospectos, con que acciones han realizado, si hicieron submit en el formulario y su porcentaje de avance en caso de que no lo hayan enviado.
